@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklarry_xue_github_io=self.webpackChunklarry_xue_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent docs","items":[{"title":"index","permalink":"/blog/index"}]}')}}]);

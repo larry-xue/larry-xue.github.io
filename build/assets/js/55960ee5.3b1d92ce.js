@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklarry_xue_github_io=self.webpackChunklarry_xue_github_io||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"golang","permalink":"/docs/tags/golang","count":1},{"label":"os/exec","permalink":"/docs/tags/os-exec","count":1}]')}}]);
